@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Two_Pointers/Container_With_Most_Water/Container_With_Most_Water.iml" filepath="$PROJECT_DIR$/Two_Pointers/Container_With_Most_Water/Container_With_Most_Water.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two_Pointers/Remove_Duplicates_from_Sorted_Array/Remove_Duplicates_from_Sorted_Array.iml" filepath="$PROJECT_DIR$/Two_Pointers/Remove_Duplicates_from_Sorted_Array/Remove_Duplicates_from_Sorted_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two_Pointers/Remove_Element/Remove_Element.iml" filepath="$PROJECT_DIR$/Two_Pointers/Remove_Element/Remove_Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two_Pointers/Smallest_Range_Covering_Elements_from_K_Lists/Smallest_Range_Covering_Elements_from_K_Lists.iml" filepath="$PROJECT_DIR$/Two_Pointers/Smallest_Range_Covering_Elements_from_K_Lists/Smallest_Range_Covering_Elements_from_K_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two_Pointers/Two_Pointers.iml" filepath="$PROJECT_DIR$/Two_Pointers/Two_Pointers.iml" />
+    </modules>
+  </component>
+</project>
